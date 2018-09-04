@@ -8,4 +8,4 @@ A Hunger Games inspired first/third person shooter with optional stealth mechani
 * First/third person controls
 * Score system
 
-The game will be made as part of an [Unreal Engine course] (https://www.udemy.com/unrealcourse/learn/v4/content)
+The game will be made as part of an [Unreal Engine course](https://www.udemy.com/unrealcourse/learn/v4/content)
